@@ -1,0 +1,1 @@
+import React from 'react';import {createRoot} from 'react-dom/client';const App=()=>React.createElement('div',null,'APIGateway');createRoot(document.getElementById('root')!).render(React.createElement(App));
